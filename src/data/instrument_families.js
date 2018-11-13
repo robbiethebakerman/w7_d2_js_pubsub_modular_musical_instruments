@@ -26,4 +26,4 @@ const instrumentFamilies = [
   }
 ];
 
-module.exports = InstrumentFamilies;
+module.exports = instrumentFamilies;
